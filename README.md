@@ -21,6 +21,7 @@ The assignment and project implementations for EEE443 course, Bilkent University
 - Implemented in Python (Jupyter Notebook) 
 
 ###  Project:
+- @emredonmez98
 - Built an image captioning networks that generates automated captions from an image. 
 - A custom Flickr dataset is used. 
 - A pretrained Inception V3 is used to extract features from the images. 
